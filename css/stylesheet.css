@@ -1,0 +1,43 @@
+p{
+  font-family: Helvetica;
+  text-align: center;
+}
+h1{
+  font-family: Helvetica;
+}
+h2{
+  font-family: Helvetica;
+  text-align: center;
+}
+table{
+  font-family: Helvetica;
+}
+body{
+  margin: 0px;
+  padding: 0px;
+}
+b{
+  font-family: Helvetica;
+}
+.viewmenu
+  {
+	  text-align: center;
+  }
+
+.viewmenu a{
+  font-family: Helvetica;
+  border-radius: 5px;
+  border: 2px solid #6495ED;
+  background-color: #6495ED;
+  height: 30px;
+  width: 110px;
+  color: white
+}
+
+
+.meal p, h2, b{
+  text-align: center;
+}
+.aboutinfo{
+  text-align: center;
+}
