@@ -1,28 +1,65 @@
+.logo{
+ text-align: center;
+}
+
+.menu-menu{
+  padding-top: 50px;
+}
+
+.align-left{
+  text-align: left;
+}
+
+.aboutinfo{
+  padding-top: 85px
+}
+
+.image-container{
+  padding-top: 50px;
+}
+
+.description{
+  padding-top: 50px;
+  padding-left: 30px;
+  padding-right: 30px:
+}
+
+.nav li{
+  display: inline;
+}
+
 p{
   font-family: Helvetica;
   text-align: center;
 }
+
 h1{
   font-family: Helvetica;
+  text-align: center;
 }
+
 h2{
   font-family: Helvetica;
   text-align: center;
 }
+
 table{
   font-family: Helvetica;
 }
+
 body{
   margin: 0px;
   padding: 0px;
 }
+
 b{
   font-family: Helvetica;
 }
+
 .viewmenu
   {
 	  text-align: center;
-  }
+}
 
 .viewmenu a{
   font-family: Helvetica;
@@ -34,10 +71,107 @@ b{
   color: white
 }
 
-
 .meal p, h2, b{
   text-align: center;
 }
+
 .aboutinfo{
+  text-align: left;
+}
+
+
+ul{
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+      background-color: #333;
+      top: 0;
+      width: 100%;
+  }
+
+li {
+      float: left;
+}
+
+li a {
+      display: block;
+      color: white;
+      text-align: center;
+      padding: 14px 16px;
+      text-decoration: none;
+      font-family: sans-serif;
+}
+
+
+li a:hover {
+      background-color: #111;
+}
+
+.homenew {
+  position: relative;
+  width: 100%;
+  height: 398px;
+}
+
+.bestinthewest {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
   text-align: center;
+  font-size: 50px;
+  color: white;
+  font-family: Helvetica;
+}
+
+.menunew {
+  position: relative;
+  width: 100%;
+  height: 398px;
+}
+
+.menu {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-family: Helvetica;
+}
+
+.aboutnew {
+  position: relative;
+  width: 100%;
+  height: 398px;
+}
+
+.aboutus {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-family: Helvetica;
+}
+
+.dailyspecialnew{
+  position: relative;
+  width: 100%;
+  height: 398px;
+}
+
+.todaysspecials{
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  font-size: 50px;
+  color: white;
+  font-family: Helvetica;
 }
